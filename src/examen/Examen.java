@@ -83,6 +83,7 @@ public class Examen {
      */
     public static int numsuerte(int num) {
 
+        
         int resultado;
         resultado = 0;
         while(num>9){
